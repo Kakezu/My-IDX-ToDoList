@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+}
+
+input {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border-color: rgb(197, 197, 197);
+
+}
+
+.add-btn {
+  background-color: rgb(216, 219, 219);
+  margin: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+}
+
+.delete-btn {
+  font-size: 10px;
+  background-color: rgb(216, 219, 219);
+  margin-left: 15px;
+  padding: 5px 5px;
+  border-radius: 5px;
+  border: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+}
